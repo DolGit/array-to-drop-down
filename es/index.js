@@ -6,7 +6,7 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 import React from 'react';
 import PropTypes from 'prop-types';
-import OmniLink from 'lib/omni-link/OmniLink.jsx';
+import OmniLink from '@dolnpm/omni-link';
 
 import Menu from '@material-ui/core/Menu';
 import MenuItem from '@material-ui/core/MenuItem';
